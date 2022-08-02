@@ -15,5 +15,5 @@ import java.time.LocalDateTime;
 public class DataBean {
     private String name;
     private String user_name;
-    private LocalDate issuance_date;
+    private String issuance_date;
 }
